@@ -1,0 +1,10 @@
+/* Validation CSS  */
+.is-valid{
+    background-color: #d3eed3 !important;
+    border-left: 10px solid limegreen !important;
+  }
+  .is-invalid{
+    background-color: #ffded1 !important;
+    border-left: 10px solid darkred !important;
+  }
+
